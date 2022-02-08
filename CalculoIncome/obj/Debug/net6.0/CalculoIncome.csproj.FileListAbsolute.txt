@@ -1,0 +1,15 @@
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\bin\Debug\net6.0\CalculoIncome.exe
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\bin\Debug\net6.0\CalculoIncome.deps.json
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\bin\Debug\net6.0\CalculoIncome.runtimeconfig.json
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\bin\Debug\net6.0\CalculoIncome.dll
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\bin\Debug\net6.0\ref\CalculoIncome.dll
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\bin\Debug\net6.0\CalculoIncome.pdb
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\obj\Debug\net6.0\CalculoIncome.csproj.AssemblyReference.cache
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\obj\Debug\net6.0\CalculoIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\obj\Debug\net6.0\CalculoIncome.AssemblyInfoInputs.cache
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\obj\Debug\net6.0\CalculoIncome.AssemblyInfo.cs
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\obj\Debug\net6.0\CalculoIncome.csproj.CoreCompileInputs.cache
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\obj\Debug\net6.0\CalculoIncome.dll
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\obj\Debug\net6.0\ref\CalculoIncome.dll
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\obj\Debug\net6.0\CalculoIncome.pdb
+C:\Users\zaha0\source\repos\CalculoIncome\CalculoIncome\obj\Debug\net6.0\CalculoIncome.genruntimeconfig.cache
